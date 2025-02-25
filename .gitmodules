@@ -1,1 +1,4 @@
 
+[submodule "Excel"]
+	path = Excel
+	url = https://github.com/EduardoLaucis/Excel.git
