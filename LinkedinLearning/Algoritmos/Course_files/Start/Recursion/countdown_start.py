@@ -1,9 +1,0 @@
-# Example file for Programming Foundations: Algorithms by Joe Marini
-# use recursion to implement a countdown counter
-
-
-def countdown(x):
-    return
-
-
-countdown(5)
